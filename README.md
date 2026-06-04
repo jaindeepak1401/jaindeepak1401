@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepak14Jain
+- 👋 Hi, I’m Deepak
 - 👀 I’m interested in coding "my life"
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Software development and testing
